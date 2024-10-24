@@ -3,5 +3,8 @@ uuid = "988cd308-da59-4589-a607-a93a8f21da39"
 authors = ["Pedro Henrique Amaro de Moraes <pedro.moraes2001@hotmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+EngThermBase = "dffbff30-506a-45ba-b474-e78cc8ad254e"
+
 [compat]
 julia = "1.6.7"
